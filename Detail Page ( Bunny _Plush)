@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crochet Bunny Plush</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Crochet Bunny Plush</h1>
+    </header>
+
+    <section id="product-description">
+        <h2>Product Description</h2>
+        <p>This adorable crochet bunny plush is perfect for cuddling and makes a great gift for any occasion. Made with soft, high-quality yarn, it is designed to be both huggable and durable.</p>
+    </section>
+
+    <section id="price">
+        <h2>Price</h2>
+        <p>Price: ₹1,200 (negotiable)</p>
+    </section>
+
+    <section id="materials">
+        <h2>Materials Used</h2>
+        <ul>
+            <li>Yarn: Lion Brand Homespun Thick and Quick</li>
+            <li>Hook: 8mm (size L)</li>
+            <li>Stuffing: Polyester fiberfill</li>
+            <li>Safety eyes (optional)</li>
+        </ul>
+    </section>
+
+    <section id="care-instructions">
+        <h2>Care Instructions</h2>
+        <p>Hand wash in cold water and lay flat to dry. Do not machine wash or tumble dry to maintain the plush texture.</p>
+    </section>
+
+    <section id="size">
+        <h2>Size and Dimensions</h2>
+        <p>Approximately 18 inches tall, perfect for little hands to hold.</p>
+    </section>
+
+    <section id="personalization">
+        <h2>Personalization Options</h2>
+        <p>Choose from a variety of colors for the bunny's body and ears. Custom embroidery options are also available!</p>
+    </section>
+
+    <section id="packaging">
+        <h2>Packaging Details</h2>
+        <p>Your bunny will be beautifully packaged in eco-friendly materials, ready for gifting.</p>
+    </section>
+
+    <section id="customer-reviews">
+        <h2>Customer Reviews</h2>
+        <blockquote>
+            <p>"This bunny is the perfect gift! My daughter loves it!" - Sarah K.</p>
+        </blockquote>
+    </section>
+
+    <section id="shipping-info">
+        <h2>Shipping Information</h2>
+        <p>Free shipping on orders over ₹5,000. Estimated delivery time is 5-7 business days.</p>
+    </section>
+
+    <section id="return-policy">
+        <h2>Return Policy</h2>
+        <p>If you are not satisfied with your purchase, you may return it within 30 days for a full refund.</p>
+    </section>
+
+    <footer>
+        <p>Thank you for considering our crochet bunny plush!</p>
+    </footer>
+</body>
+</html>
